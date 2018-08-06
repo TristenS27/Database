@@ -1,9 +1,9 @@
 #Author: Tristen Smith
-#This problem opens a csv file and sorts the data based on ...
+#This problem opens the marta csv file and sorts the data based on ...
 #~~~1. Finds the station with the closest # of taps to the average
 #~~~2. Finds the station with the least # of taps
 #~~~3. Finds the average # of taps per station
-#Open marta sample.csv and follow the directions from there
+#Open marta sample setup.txt and follow the directions from there
 marta_file = open('marta sample.csv', 'r')
 def marta(file):
     read_file = marta_file.readlines()
