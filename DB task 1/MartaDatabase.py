@@ -3,7 +3,7 @@
 #~~~1. Finds the station with the closest # of taps to the average
 #~~~2. Finds the station with the least # of taps
 #~~~3. Finds the average # of taps per station
-#Open marta sample setup.txt and follow the directions from there
+#Read README.md from DB Task 1 and follow the instructions
 marta_file = open('marta sample.csv', 'r')
 def marta(file):
     read_file = marta_file.readlines()
