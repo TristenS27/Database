@@ -44,5 +44,5 @@ def marta(file):
         if least_traffic == dict[key]: #if this value matches key, = station
             least = "The station ID with the least amount of traffic is: " + str(key)
     average = "The average number of taps per station is: " + str(round(average))
-    return closest + "\n" + least + "\n" + average   
+    return closest + "\n\n" + least + "\n\n" + average   
 print(marta(marta_file))
