@@ -8,7 +8,7 @@
 #~~~6. What is Georgia Tech's all-time record in the month of October?
 #~~~7. Georgia Tech played in the SEC from 1933 to 1963. What was its record during this time?
 #~~~8. Against what team has Georgia Tech scored the most points?
-#Read README.md from DB Task 2 and follow the instructions
+#Read README.md from DB task 2 and follow the instructions
 football_file = open('football sample.csv', 'r')
 def game(file):
     game_list = []

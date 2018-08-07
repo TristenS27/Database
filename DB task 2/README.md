@@ -1,10 +1,10 @@
-• The football CSV file is to be used in conjunction with GTFootball.py
+• The football CSV file is to be used in conjunction with FootballDatabase.py
 
 • Put the CSV file where your path folder is set to
 
 • DO NOT set this file within any other folders in path
 
-• CSV Format: (date,opponent,location,GT score,opponent score)
+• CSV Format: (date, opponent, location, GT score, opponent score)
 1. Date: the date of the game, in Year-Month-Day format.
 2. Opponent: the name of the opposing team
 3. Location: Home, Away, or Neutral

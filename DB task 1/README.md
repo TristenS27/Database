@@ -4,7 +4,7 @@
 
 • DO NOT set this file within any other folders in path
 
-• CSV Format: (Transit day,time,device ID,station ID,use type,serial #)
+• CSV Format: (Transit day, time, device ID, station ID, use type, serial #)
 
 • MartaDatabase.py will only take use of station ID
 
